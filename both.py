@@ -16,7 +16,7 @@ top = 52
 right = 800
 bottom = 53
 lengthofarray=right-left
-beleidigung=["du stinkst","du looser","failed","Du bist eine enttäuschung","Ich wünschte du wärest nicht so schlecht","Du legostein ohne noppen","du Apfelspieß ohne apfel, sondern nur mit scheiße","ich glaube du bist einfach nur schlecht","Worst gamer ever","wow, du kannst echt gar nichts","Wenn du fickst, wie du spielst, dann fickst du nicht gut","OH MEIN GOTT; du bist einfach nur erbärmlich","Wenn Jesus dich sehen würde, würde er Gott um die Kreuzigug bitten."]
+beleidigung=["failed","Du bist eine enttäuschung","Ich wünschte du wärest nicht so schlecht","Du legostein ohne noppen","ich glaube du bist einfach nur schlecht","Worst gamer ever","Wenn Jesus dich gerade sehen würde, wäre er sehr traurig"]
 timeticker=0
 lastvar=0
 #time.sleep(5)
